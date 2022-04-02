@@ -1,0 +1,26 @@
+{
+    "list":[{
+        "image":"OIP.jpg",
+        "type":"Single Room",
+        "rate":"From $99",
+        "dis":"singleBed",
+        "sqfeet":"152"
+    },
+    {
+        "image":"pic1.jpg",
+        "type":"Single Room",
+        "rate":"From $99",
+        "dis":"singleBed",
+        "sqfeet":"152"
+    },
+    {
+        "image":"OIP.jfif",
+        "type":"Single Room",
+        "rate":"From $99",
+        "dis":"singleBed",
+        "sqfeet":"152"  
+    }
+   
+    ]
+    
+    }
